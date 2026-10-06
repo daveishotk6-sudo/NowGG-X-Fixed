@@ -1,0 +1,16 @@
+{
+  "name": "nowgg-x-fixed",
+  "version": "1.0.0",
+  "description": "Fixed Now.gg-X proxy for Railway / Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-proxy-middleware": "^2.0.6"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
